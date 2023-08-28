@@ -1,0 +1,15 @@
+{
+  "year": {
+    "2023": {
+        "convidence" : {
+            "high" : {
+                "total": 20
+            },
+            "medium" : {
+                "total": 20
+            }
+        },
+        "total" : 40
+    }
+  }
+}
